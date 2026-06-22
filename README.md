@@ -107,6 +107,4 @@ Telegram-проект про киберспорт. По сути это поис
 
 ---
 
-Kamil. По вопросам в [@clutch_gg_bot](https://t.me/clutch_gg_bot)
-
 © 2026 CLUTCH, все права защищены.
